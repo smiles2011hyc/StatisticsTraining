@@ -136,8 +136,7 @@ plt.plot(x,y)
 plt.plot([0,numberSize], [0,0], 'r')
 plt.show()
 ```
-
-![1548594212672](https://user-images.githubusercontent.com/15357935/51809927-8bcc8a80-22df-11e9-944f-3df7cfc57c20.png)
+![1548590606482](https://user-images.githubusercontent.com/15357935/51809934-94bd5c00-22df-11e9-9539-382b6823f2d0.png)
 
 由上图即可进一步验证我们的结论，随着数据量的增加，均值越来越接近实际均值0。
 
