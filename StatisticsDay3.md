@@ -81,8 +81,8 @@ sns.distplot(dataSet)
 plt.title('数据集分布')
 plt.show()
 ```
+![1548836690479](https://user-images.githubusercontent.com/15357935/51983191-04476d00-24d3-11e9-9b09-3707cda3e6ed.png)
 
-![1548834363138](https://user-images.githubusercontent.com/15357935/51983187-014c7c80-24d3-11e9-9814-06db4c69839e.png)
 
 ```python
 #排放标准
@@ -104,7 +104,7 @@ else:
 
 #### 统计学上的第Ⅰ和第Ⅱ类错误
 
-![1548836690479](https://user-images.githubusercontent.com/15357935/51983191-04476d00-24d3-11e9-9b09-3707cda3e6ed.png)
+![1548834363138](https://user-images.githubusercontent.com/15357935/51983187-014c7c80-24d3-11e9-9814-06db4c69839e.png)
 
 - **Ⅰ型错误**：格子B反应的情况是，实际上不存在差异（也就是干预措施无效），但是我们的研究拒绝了零假设，这叫做**Ⅰ型（type Ⅰ）错误**。
 - **Ⅱ型错误**：格子C反映了相反的情况——处理措施确实有效，但是我们的研究不拒绝$H_0$,统计学家称其为**Ⅱ型（typeⅡ）错误**。
